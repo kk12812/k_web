@@ -1,8 +1,7 @@
 .header{
-    width: 1510px;
-    height:150px;
     background-color: rgba(255, 255, 255, 0.507);
     margin:5px;
+    height: 150px;
 }
 
 .left{
@@ -19,10 +18,15 @@
     width: 18%;
     height:570px;
     float:right;
-    background-image: url("D:/Repo/Lab/Lab/image/sh2.jpg");
+    background-image: url("../image/sh2.jpg");
     background-size: cover;
     background-position:center;
     margin:5px; 
+}
+
+.text-center{
+    font-family: 'Noto Sans TC', sans-serif;
+
 }
 
 table,tr,th,td{
@@ -33,13 +37,9 @@ table,tr,th,td{
     background-color: rgba(255, 255, 255, 0.356);
 }
 
-caption{
-    text-shadow: 2px 2px 5px red;
-    font-size: 40px;
-}
 
 body {
-    background-image: url("D:/Repo/Lab/Lab/image/kusa.jpg");
+    background-image: url("../image/kusa.jpg");
     background-size: cover;
     background-color: rgba(187, 121, 121, 0.247);
     
@@ -53,11 +53,12 @@ tr:hover {
     background-color: rgba(226, 217, 197, 0.651);
 }
 
-
-
 #p9{
     text-align: center;
     font-size: 40px;
     background-color:rgba(225, 197, 226, 0.651)
 }
+
+
+
 
