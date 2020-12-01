@@ -1,0 +1,1 @@
+alert("try it from 1201.js");
